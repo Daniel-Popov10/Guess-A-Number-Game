@@ -27,7 +27,7 @@ After the game starts you will be prompted to start guessing the randomly genera
 
 # Live Demo
 
-You can try the game by clicking on this [link](https://replit.com/@DanielPopov2/guessANumber#guessANumber.js) or by clicking on the image down below and typing **guessANumber.js** in the shell window.
+You can try the game by clicking on this [link](https://replit.com/@DanielPopov2/guessANumber#guessANumber.js) or by clicking on the image down below and typing **node guessANumber.js** in the shell window.
 
 
 
